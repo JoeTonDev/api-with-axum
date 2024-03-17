@@ -1,2 +1,2 @@
 
-RESTful API written in Rust.  Using SeaORM and Axum HTTP framework.
+A REST API program written in Rust.  Using SeaORM and Axum HTTP framework.
